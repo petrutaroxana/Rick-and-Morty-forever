@@ -1,0 +1,13 @@
+#include <iostream>
+
+using namespace std;
+
+int main ()
+{
+    char C[100];
+    cout<<"Enter your sentence: ";
+    cin.get(C,100);
+    cout<<"Your sentence is :"<<C;
+    return 0;
+
+}
