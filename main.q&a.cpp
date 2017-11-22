@@ -46,7 +46,7 @@ int main ()
     case 4: cout<<"Wrong answer! The Palace of Parliament is placed in Bucharest,the capital city of Romania."<<endl<<endl<<endl;break;
 }
    cout<<"5. George Emil Palade was Romanian-American cell byologist.Described as ” the most influential cell biologist ever”,in 1974 he was awarded the Nobel Prize in Physiology and Medicine.Which was his most notable discovery in Medicine?"<<endl;
-   cout<<"1. the ribosomes"<<endl;cout<<"2. the insulin"<<endl;cout<<"3. the stethoscope"<<endl;cout<<"the chemotherapy"<<endl;
+   cout<<"1. the ribosomes"<<endl;cout<<"2. the insulin"<<endl;cout<<"3. the stethoscope"<<endl;cout<<"4. the chemotherapy"<<endl;
    cin>>selector;
       switch(selector)
 {
